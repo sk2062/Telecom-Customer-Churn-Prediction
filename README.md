@@ -9,7 +9,7 @@ Data is available on Kaggle website as IBM Sample datasets.
 https://www.kaggle.com/blastchar/telco-customer-churn
 
 Data Description :                                
-Churn : Customers who left within the last month                 
-Services that each customer has signed up for : phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV & movies       
-Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges                              
-Demographic info about customers – gender, age range, and if they have partners and dependents
+1. Churn : Customers who left within the last month(Output Variable)                                                             
+2. Services that each customer has signed up for : phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV & movies       
+3. ustomer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges                              
+4. Demographic info about customers – gender, age range, and if they have partners and dependents
